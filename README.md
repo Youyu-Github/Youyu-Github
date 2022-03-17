@@ -21,4 +21,4 @@ Here are some ideas to get you started:
   </tr>
 </table>
 
-[![Youyu-Github's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Youyu-Github&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![Youyu-Github's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Youyu-Github&show_icons=true&theme=radical)
