@@ -21,4 +21,4 @@ Here are some ideas to get you started:
   </tr>
 </table>
 
-![Youyu-Github's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Youyu-Github&show_icons=true&theme=radical)
+![Readme Card](https://github-readme-stats-one-bice.vercel.app/api?username=Youyu-Github&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
