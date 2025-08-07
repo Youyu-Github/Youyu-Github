@@ -1,8 +1,8 @@
 # 不会用Github的菜鸟😭😭😭
 ## 只会fork和用AI修改
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=canyie&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=canyie&layout=compact&langs_count=10&exclude_repo=iQOO-Z1-kernel,canyie.github.io)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Youyu-Github&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Youyu-Github&layout=compact&langs_count=10&exclude_repo=iQOO-Z1-kernel,canyie.github.io)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Youyu-Github/Youyu-Github** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
